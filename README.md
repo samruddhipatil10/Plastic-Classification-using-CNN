@@ -62,7 +62,7 @@ To train the model:
 
 ### Clone the repository:
 #### bash
-git clone https://github.com/ShubhamDwn/Plastic_Classification_using_CNN.git
+git clone https://github.com/samruddhipatil10/Plastic_Classification_using_CNN.git
 cd Plastic_Classification_using_CNN
 Prepare your dataset in the specified format.
 Run the training script:
@@ -96,4 +96,5 @@ Contributions are welcome! If you have ideas or suggestions, feel free to fork t
 ## Author
 Developed by Shubham Ekanath Dhavan, Asashish Mulani, Prachi Wandre, Samruddhi Patil.
 Feel free to reach out for collaborations or queries!
+
 
